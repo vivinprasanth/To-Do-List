@@ -11,8 +11,18 @@
     "process": "^0.11.10"
   },
   "scripts": {
-    "test": "jest"
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
   },
+  "repository": {
+      "type": "git",
+      "url" : "git+https://github.com/vivinprasanth/To-Do-List.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vivinprasanth/To-Do-List/issues"
+  },
+
   "author": "Vivin Prasanth",
+
   "license": "ISC"
 }
