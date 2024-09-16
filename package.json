@@ -1,6 +1,7 @@
 {
   "dependencies": {
-    "react": "^18.3.1"
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
   },
   "name": "to-do-list",
   "version": "1.0.0",
@@ -15,14 +16,12 @@
     "build": "parcel build index.html"
   },
   "repository": {
-      "type": "git",
-      "url" : "git+https://github.com/vivinprasanth/To-Do-List.git"
+    "type": "git",
+    "url": "git+https://github.com/vivinprasanth/To-Do-List.git"
   },
   "bugs": {
     "url": "https://github.com/vivinprasanth/To-Do-List/issues"
   },
-
   "author": "Vivin Prasanth",
-
   "license": "ISC"
 }
