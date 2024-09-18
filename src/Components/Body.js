@@ -2,9 +2,13 @@ const Body = () => {
     console.log("Body"); 
 
 return (
-    <h1>Body</h1>
 
-    );  
+        <div>
+            Body
+        </div>
+
+
+);  
     
 };
 

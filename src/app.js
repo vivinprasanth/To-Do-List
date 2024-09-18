@@ -19,7 +19,5 @@ const AppRoute = () => {
 };
 
 
-
-
 const root = ReactDOM.createRoot(document.getElementById("To-Do-List")) ;
 root.render(<AppRoute/>) ; 
