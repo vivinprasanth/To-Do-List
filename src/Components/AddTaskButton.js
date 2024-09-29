@@ -2,7 +2,8 @@ const AddTaskButton = () => {
 
     return (
 
-        <button className="Add-Button bg-white flex flex-row justify-center gap-x-3 rounded-3xl p-2 hover:shadow-md transition-shadow duration-600 hover:shadow-white">
+        <button className="Add-Button bg-white flex flex-row justify-center gap-x-3 rounded-3xl p-2 
+            hover:shadow-md transition-shadow duration-600 hover:shadow-white">
                 <div className="Add-symbol text-black font-bold text-md">
                     +
                 </div>
